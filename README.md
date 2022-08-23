@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Karen
 
 <!--
 **Karen-1992/Karen-1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
